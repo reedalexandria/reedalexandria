@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Alex Reed (pronounced "chick" 🐥)</h1>
+<h1 align="center">Hi! I'm Alex Reed</h1>
 
 <h3 align="center"> Environmental Specialist and Master's of Environmental Data Science Candidate</h3>
 
@@ -8,7 +8,7 @@
 
 📝 **Personal website:** [reedalexandria.github.io](https://reedalexandria.github.io/)
 
-📫 **How to reach me:** mailto:, [reedalexandria@outlook.com](mailto:reedalexandria@outlook.com)
+📫 **How to reach me:** mailto: [reedalexandria@outlook.com](mailto:reedalexandria@outlook.com)
 
 ### What am I up to? 
 
