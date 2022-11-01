@@ -10,6 +10,8 @@
 
 📫 **How to reach me:** mailto: [reedalexandria@outlook.com](mailto:reedalexandria@outlook.com)
 
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/reedalexandria1.svg?style=social&label=Follow%20%40reedalexandria1)](https://twitter.com/reedalexandria1)
+
 ### What am I up to? 
 
 🌱 I'm currently enrolled in a [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science/academics-meds) (MEDS) degree program at UC Santa Barbara. I have over five years of experience in the environmental industry, most recently working as an Environmental Specialist for the Engineering and Environmental Sciences Department at Citadel EHS. I help evaluate and identify environmental impacts and recommend solutions.
