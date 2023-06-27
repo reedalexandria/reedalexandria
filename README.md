@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Alex Reed</h1>
 
-<h3 align="center">Master's of Environmental Data Science</h3>
+<h3 align="center">Environmental Data Scientist</h3>
 
 <br>
 
@@ -12,7 +12,7 @@
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/reedalexandria1.svg?style=social&label=Follow%20%40reedalexandria1)](https://twitter.com/reedalexandria1)
 
-### What am I up to? 
+### About me
 
 🌱 I recently graduated from the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science/academics-meds) (MEDS) degree program at the Bren School of Environmental Science & Management at UC Santa Barbara. I have over five years of experience in the environmental industry, most recently working as an Environmental Specialist for the Engineering and Environmental Sciences Department at Citadel EHS. I am interested in sustainable food systems, land use, forestry, environmental justice, among others. I am passionate about utilizing data-driven approaches to create innovative solutions that promote environmental sustainability and social equity.
 
