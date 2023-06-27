@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Alex Reed</h1>
 
-<h3 align="center"> Environmental Specialist and Master's of Environmental Data Science Candidate</h3>
+<h3 align="center">Master's of Environmental Data Science</h3>
 
 <br>
 
