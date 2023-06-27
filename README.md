@@ -14,17 +14,17 @@
 
 ### What am I up to? 
 
-🌱 I'm currently enrolled in a [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science/academics-meds) (MEDS) degree program at UC Santa Barbara. I have over five years of experience in the environmental industry, most recently working as an Environmental Specialist for the Engineering and Environmental Sciences Department at Citadel EHS. I help evaluate and identify environmental impacts and recommend solutions.
+🌱 I recently graduated from the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science/academics-meds) (MEDS) degree program at the Bren School of Environmental Science and Management at UC Santa Barbara. I have over five years of experience in the environmental industry, most recently working as an Environmental Specialist for the Engineering and Environmental Sciences Department at Citadel EHS. I am interested in sustainable food systems, land use, forestry, environmental justice, among others. I am passionate about utilizing data-driven approaches to create innovative solutions that promote environmental sustainability and social equity.
 
-⚽ In my spare time, I enjoy playing sports like soccer and beach volleyball. I also enjoy hiking and running. Fun fact: I went to cross-country nationals in high school (my team came in 3rd place)! 
+⚽ In my spare time, I enjoy playing sports like soccer and beach volleyball. I also enjoy hiking and running. One of my most favorite hikes was to Laguna Humantay along the Salkantay Trail in Peru. 
 
 ### Experience
 
-- 2018 - present: Environmental Specialist (Citadel EHS)
+- 2018 - 2023: Environmental Specialist (Citadel EHS)
 
 ### Education
 
-- MEDS (expected 2023): Environmental Data Science (UC Santa Barbara)
+- MEDS (2023): Environmental Data Science (UC Santa Barbara)
 - BS (2017): Environmental Studies (UC Santa Barbara)
 
 <!--
