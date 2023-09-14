@@ -8,7 +8,7 @@
 
 📝 **Personal website:** [reedalexandria.github.io](https://reedalexandria.github.io/)
 
-📫 **How to reach me:** [reedalexandria@outlook.com](mailto:reedalexandria@outlook.com)
+📫 **How to reach me:** [reedalexandria@outlook.com](mailto:reed.alexandria@outlook.com)
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/reedalexandria1.svg?style=social&label=Follow%20%40reedalexandria1)](https://twitter.com/reedalexandria1)
 
