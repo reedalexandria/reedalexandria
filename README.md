@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Alex Reed</h1>
+<h1 align="center">Alex Reed</h1>
 
 <h3 align="center">Environmental Data Scientist</h3>
 
@@ -12,19 +12,16 @@
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/reedalexandria1.svg?style=social&label=Follow%20%40reedalexandria1)](https://twitter.com/reedalexandria1)
 
-### About me
-
-🌱 I recently graduated from the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science/academics-meds) (MEDS) degree program at the Bren School of Environmental Science & Management at UC Santa Barbara. I have over five years of experience in the environmental industry, most recently working as an Environmental Specialist for the Engineering and Environmental Sciences Department at Citadel EHS. I am interested in sustainable food systems, land use, forestry, environmental justice, among others. I am passionate about utilizing data-driven approaches to create innovative solutions that promote environmental sustainability and social equity.
-
-⚽ In my spare time, I enjoy playing sports like soccer and beach volleyball. I also enjoy hiking and running. One of my most favorite hikes was to Laguna Humantay along the Salkantay Trail in Peru. 
+Welcome! I'm a Data Scientist at Dudek, working closely with the Urban Forestry department to explore, analyze, and visualize tree canopy and inventory data. I have over six years of experience in the environmental industry. I am interested in forestry, land use, sustainable food systems, environmental justice, among other topics. I am passionate about utilizing data-driven approaches to create innovative solutions that promote environmental sustainability and social equity.
 
 ### Experience
 
+- 2023 - Present: Data Scientist (Dudek)
 - 2018 - 2023: Environmental Specialist (Citadel EHS)
 
 ### Education
 
-- MEDS (2023): Environmental Data Science (UC Santa Barbara)
+- [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science/academics-meds) (2023): Environmental Data Science (UC Santa Barbara)
 - BS (2017): Environmental Studies (UC Santa Barbara)
 
 <!--
